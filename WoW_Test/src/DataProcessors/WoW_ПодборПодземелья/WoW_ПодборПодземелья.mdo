@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="edf7ab69-8987-4ae8-bd08-680a52a464dd">
+  <producedTypes>
+    <objectType typeId="02142980-2304-46f7-a50b-830220e7e6d6" valueTypeId="a33b2997-9a09-4e3a-9a0d-ca5acfcacca1"/>
+    <managerType typeId="0df184ca-e1d9-4fd8-805e-6cd6e4b31dee" valueTypeId="0c2c5b9a-e7a0-44f7-9ca8-10933246dab1"/>
+  </producedTypes>
+  <name>WoW_ПодборПодземелья</name>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.WoW_ПодборПодземелья.Form.Форма</defaultForm>
+  <forms uuid="5a0652a7-7193-446d-aaa1-d0f27dbbea92">
+    <name>Форма</name>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

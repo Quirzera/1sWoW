@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6e963adf-6104-46f5-8798-adbf6bed9980">
+  <producedTypes>
+    <objectType typeId="6a7d6814-3890-4ba5-8968-018b6afcb0c5" valueTypeId="5d7ee32c-3739-40a6-85da-e349a1154880"/>
+    <refType typeId="4e382363-2441-4ebe-93e2-99ad3c56dc36" valueTypeId="2e986c8f-b2b2-4501-a297-41cc015ea0bc"/>
+    <selectionType typeId="c3b198a6-8df9-4fef-8212-06384d3ded37" valueTypeId="d22c2037-1964-470f-b4c7-d90106f24ac0"/>
+    <listType typeId="6cb6e83e-7585-478e-8142-fdde292e5f60" valueTypeId="2e2f3bad-0879-45c6-92d8-25bd5727d994"/>
+    <managerType typeId="6922270c-7b6b-4ab1-9e63-2350709ce06b" valueTypeId="ecb8d372-06d9-402a-b97c-63d4f24220b6"/>
+  </producedTypes>
+  <name>WoW_Персонажи</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.WoW_Персонажи.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.WoW_Персонажи.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

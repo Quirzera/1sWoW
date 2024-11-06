@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3a213843-c9bf-4e32-8302-5491c1214d8c">
+  <producedTypes>
+    <selectionType typeId="6c1a2e63-541a-4209-a89c-451a8f9bf1d8" valueTypeId="c565dfd4-1c27-4f58-9e1a-72dfec1ccd7c"/>
+    <listType typeId="d3a46b15-41c7-4327-a75a-702203967d93" valueTypeId="54fb83c3-9153-4ab2-8d2a-294d25b6c948"/>
+    <managerType typeId="dd6881f3-fc38-4b07-bd0f-0e679a6813bc" valueTypeId="dc47cd4a-6eb8-420b-8814-05d0b7dea591"/>
+    <recordSetType typeId="45a8491d-18da-4b27-9d5f-21d0457bbf4e" valueTypeId="0a3a2771-7107-4480-bffb-e1b67dbee0f9"/>
+    <recordKeyType typeId="5b0e190b-26f1-4a18-8ace-8e322016120f" valueTypeId="faac56b6-8391-4b0c-b095-02bb0ebd9e7f"/>
+    <recordType typeId="e95b5296-477e-446d-a409-838b3cdc219e" valueTypeId="88813b1b-7a4d-4247-83a4-c8eca7416f58"/>
+    <recordManagerType typeId="e22e2e59-fba0-4640-a621-3894c12d070e" valueTypeId="15695757-e043-4188-8787-fa006d2c6ae4"/>
+  </producedTypes>
+  <name>WoW_СезонныеПодземелья</name>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <attributes uuid="0f0e08e3-a125-416d-a871-59386b945b2d">
+    <name>Танк</name>
+    <type>
+      <types>CatalogRef.WoW_Персонажи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <dimensions uuid="dfd4183b-5a34-43ae-81b6-74fbfa34337e">
+    <name>Сезон</name>
+    <type>
+      <types>CatalogRef.WoW_Сезоны</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="35ad771f-9965-4703-92c9-69a851ff8edd">
+    <name>Подземелье</name>
+    <type>
+      <types>CatalogRef.WoW_Подземелья</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

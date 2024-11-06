@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0c38214b-28fb-4707-8a39-29e74a1d362c">
+  <producedTypes>
+    <objectType typeId="215e9e0f-438e-4f68-961b-dcb8745c95f9" valueTypeId="191dcead-60e6-40e8-a2ce-3b31a3682185"/>
+    <refType typeId="6877622b-3e58-4a2d-8d42-c0880f5860f8" valueTypeId="e68608e4-3192-4b81-aa15-9a27b313fd7f"/>
+    <selectionType typeId="a7f25210-3af5-4eff-9ae2-ed322c3340b1" valueTypeId="69dc7a14-6c9b-4976-b529-3dd0d4f66fca"/>
+    <listType typeId="d089134c-c589-4a8f-9c38-f42f0d9258c5" valueTypeId="87c692e8-c2e7-45ec-9ae0-5f87948ceb6a"/>
+    <managerType typeId="baf8b054-46dd-4e88-af49-f20e3811df2e" valueTypeId="980bf6f5-87ca-4b10-9579-9d40515c8be6"/>
+  </producedTypes>
+  <name>WoW_Сезоны</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.WoW_Сезоны.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.WoW_Сезоны.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

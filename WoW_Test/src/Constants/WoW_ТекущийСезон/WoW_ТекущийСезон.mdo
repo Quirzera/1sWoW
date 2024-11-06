@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ab12d572-a293-42c6-bfae-630d4d4a16f8">
+  <producedTypes>
+    <managerType typeId="69efe6e2-3e22-4652-8fb0-29b7bedc924f" valueTypeId="3a82ce66-5f65-40ed-a63b-e62576fe2f9f"/>
+    <valueManagerType typeId="6ea13e1c-89d7-44e6-ae6a-f25a69c2056c" valueTypeId="27dd5c7a-a1b7-4601-b5b8-2280823de039"/>
+    <valueKeyType typeId="babf9cfc-bb4c-418b-aa44-9babdf44dbdd" valueTypeId="a6441dbb-88b0-4a35-9e3e-2457cea0835f"/>
+  </producedTypes>
+  <name>WoW_ТекущийСезон</name>
+  <type>
+    <types>CatalogRef.WoW_Сезоны</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

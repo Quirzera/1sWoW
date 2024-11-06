@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cb8116b3-0173-4dd6-b20b-d10cc0832a33">
+  <producedTypes>
+    <objectType typeId="5e2c4a2b-e823-411d-b872-2ed3f66b2fe6" valueTypeId="b606139d-75f8-4721-987e-3be6e3496031"/>
+    <refType typeId="d9b49e58-9b8a-4c20-aac9-3c3159fdbdde" valueTypeId="a37896b8-7153-46fb-a05d-a41a3208460b"/>
+    <selectionType typeId="6d9e74f3-afe4-4691-a59f-c7ae50edf6ee" valueTypeId="3d7ce8d6-b853-4f0f-a2b8-41cd6a3277de"/>
+    <listType typeId="e663b058-7537-4766-baf6-019fa20d5d9c" valueTypeId="214fc412-4d44-4cbe-a082-bfbbb0719e4b"/>
+    <managerType typeId="aae58675-45ee-4b8a-bc38-c163b6927c97" valueTypeId="0b8e4451-0d77-4136-b489-9892166a05cc"/>
+  </producedTypes>
+  <name>WoW_Специализации</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.WoW_Специализации.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.WoW_Специализации.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

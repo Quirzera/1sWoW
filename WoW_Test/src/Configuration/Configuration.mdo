@@ -33,5 +33,11 @@
   <defaultRoles>Role.WoW_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.23</compatibilityMode>
   <roles>Role.WoW_ОсновнаяРоль</roles>
+  <constants>Constant.WoW_ТекущийСезон</constants>
+  <catalogs>Catalog.WoW_Персонажи</catalogs>
   <catalogs>Catalog.WoW_Подземелья</catalogs>
+  <catalogs>Catalog.WoW_Сезоны</catalogs>
+  <catalogs>Catalog.WoW_Специализации</catalogs>
+  <dataProcessors>DataProcessor.WoW_ПодборПодземелья</dataProcessors>
+  <informationRegisters>InformationRegister.WoW_СезонныеПодземелья</informationRegisters>
 </mdclass:Configuration>
