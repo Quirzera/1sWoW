@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f326a162-96d7-47d3-9caf-96713f8848f7">
+  <producedTypes>
+    <objectType typeId="daec74fa-7812-458f-923e-c76e51670f64" valueTypeId="cdc0c32f-d54d-4a52-8e7f-c9ad35dcfd7c"/>
+    <refType typeId="e2596dd2-42a1-4eea-bf06-e6503b0592d9" valueTypeId="20b02022-adf4-469d-a61e-6945b0ba8f24"/>
+    <selectionType typeId="417abb25-ea8b-46f3-9ab6-6d5122b5a284" valueTypeId="ade551fd-05c5-43fa-9be9-4bd1c0d7df20"/>
+    <listType typeId="f91068ca-437b-438d-bde5-9da5978b3058" valueTypeId="4b2dbee2-e376-4587-b9bd-89be9043f7f5"/>
+    <managerType typeId="4b2f643e-b168-477b-8e6f-8cad48d74064" valueTypeId="54c1ce25-ccfd-4413-80aa-9c92031359da"/>
+  </producedTypes>
+  <name>WoW_Подземелья</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.WoW_Подземелья.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.WoW_Подземелья.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="49cfcad4-088a-4ef8-b48e-7adf4c7e8206">
+    <name>ОсновноеИзображение</name>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>
