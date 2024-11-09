@@ -28,7 +28,10 @@
   <attributes uuid="49cfcad4-088a-4ef8-b48e-7adf4c7e8206">
     <name>ОсновноеИзображение</name>
     <type>
-      <types>ValueStorage</types>
+      <types>String</types>
+      <stringQualifiers>
+        <length>99</length>
+      </stringQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

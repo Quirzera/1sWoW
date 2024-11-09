@@ -33,7 +33,11 @@
   <defaultRoles>Role.WoW_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.23</compatibilityMode>
   <roles>Role.WoW_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.КиурКл</commonModules>
+  <commonModules>CommonModule.КиурКлСрв</commonModules>
   <constants>Constant.WoW_ТекущийСезон</constants>
+  <commonForms>CommonForm.Kiur_ФормаОтображенияИзображений</commonForms>
+  <commonForms>CommonForm.Kiur_ФормаПредупреждения</commonForms>
   <catalogs>Catalog.WoW_Персонажи</catalogs>
   <catalogs>Catalog.WoW_Подземелья</catalogs>
   <catalogs>Catalog.WoW_Сезоны</catalogs>
