@@ -10,6 +10,7 @@
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
     <commandInterface>Extended</commandInterface>
+    <homePageWorkArea>Extended</homePageWorkArea>
     <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
     <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
     <compatibilityMode>Checked</compatibilityMode>

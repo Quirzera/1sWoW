@@ -12,4 +12,12 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <templates uuid="8ec14d8e-9141-4400-a7df-c1a7a72e9685">
+    <name>Kosti</name>
+    <synonym>
+      <key>ru</key>
+      <value>Kosti</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
 </mdclass:DataProcessor>

@@ -25,6 +25,10 @@
       <command>Catalog.WoW_Персонажи.StandardCommand.OpenList</command>
       <visible/>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>DataProcessor.WoW_ПодборПодземелья.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
   </commandsVisibility>
   <commandsOrder>
     <orderFragments>
