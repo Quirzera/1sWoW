@@ -36,7 +36,9 @@
   <roles>Role.WoW_ОсновнаяРоль</roles>
   <commonModules>CommonModule.КиурКл</commonModules>
   <commonModules>CommonModule.КиурКлСрв</commonModules>
+  <commonModules>CommonModule.КиурСрв</commonModules>
   <constants>Constant.WoW_ТекущийСезон</constants>
+  <commonForms>CommonForm.Kiur_ФормаВыбораЗначения</commonForms>
   <commonForms>CommonForm.Kiur_ФормаОтображенияИзображений</commonForms>
   <commonForms>CommonForm.Kiur_ФормаПредупреждения</commonForms>
   <catalogs>Catalog.WoW_Персонажи</catalogs>
