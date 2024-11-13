@@ -14,10 +14,6 @@
       <dataPath xsi:type="form:DataPath">
         <segments>РежимПодбора</segments>
       </dataPath>
-      <handlers>
-        <event>OnChange</event>
-        <name>РежимПодбораПриИзменении</name>
-      </handlers>
       <extendedTooltip>
         <name>РежимПодбораРасширеннаяПодсказка</name>
         <id>10</id>
@@ -58,11 +54,6 @@
         <choiceList>
           <value xsi:type="core:StringValue">
             <value>Рандомное подземелье</value>
-          </value>
-        </choiceList>
-        <choiceList>
-          <value xsi:type="core:StringValue">
-            <value>Подземелье для танка</value>
           </value>
         </choiceList>
         <choiceList>
@@ -656,6 +647,23 @@
     <valueType>
       <types>String</types>
       <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ВыпавшееПодземелье</name>
+    <title>
+      <key>ru</key>
+      <value>Выпавшее подземелье</value>
+    </title>
+    <id>7</id>
+    <valueType>
+      <types>CatalogRef.WoW_Подземелья</types>
     </valueType>
     <view>
       <common>true</common>
